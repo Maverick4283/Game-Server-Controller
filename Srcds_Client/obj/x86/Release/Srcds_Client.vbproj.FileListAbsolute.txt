@@ -1,0 +1,16 @@
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\bin\Release\Srcds_Client.exe
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\bin\Release\Srcds_Client.pdb
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\bin\Release\Srcds_Client.xml
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.servercfggen.resources
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.MainForm.resources
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.Resources.resources
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.exe
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.xml
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.pdb
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\bin\Release\Srcds_Client.exe.config
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.ServerProperties.resources
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.Settings.resources
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Release\Srcds_Client.About.resources

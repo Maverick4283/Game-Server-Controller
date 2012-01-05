@@ -1,0 +1,13 @@
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\bin\Debug\Srcds_Client.exe
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\bin\Debug\Srcds_Client.pdb
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\bin\Debug\Srcds_Client.xml
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\Srcds_Client.Resources.resources
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\Srcds_Client.exe
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\Srcds_Client.xml
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\Srcds_Client.pdb
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\bin\Debug\Srcds_Client.exe.config
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\Srcds_Client.servercfggen.resources
+H:\Users\Chris.Chris-PC\Documents\Visual Studio 2010\Projects\Srcds_Client\Srcds_Client\obj\x86\Debug\Srcds_Client.MainForm.resources
